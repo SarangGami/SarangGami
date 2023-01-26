@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SarangGami?tab=repositories](https://github.com/SarangGami?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/SarangGami_8](https://github.com/SarangGami?tab=repositories)
 
 - 💬 Ask me about **MS Excel, SQL, python**
 
 - 📫 How to reach me **sarang.gami.24@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sarang-gami-31b407257/](https://www.linkedin.com/in/sarang-gami-31b407257/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sarang-gami-8](https://www.linkedin.com/in/sarang-gami-31b407257/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
