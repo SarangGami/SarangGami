@@ -17,6 +17,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sarang-gami-8](https://www.linkedin.com/in/sarang-gami-31b407257/)
 
+<br>
+<h4 align="right">A picture is worth a thousand words.</h4>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarang-gami-31b407257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarang-gami-31b407257/" height="30" width="40" /></a>
