@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarangGami_8](https://github.com/SarangGami?tab=repositories)
 
-- 💬 Ask me about **MS Excel, SQL, python**
+- 💬 Ask me about **MS Excel, SQL, powerBI, python**
 
 - 📫 How to reach me **sarang.gami.24@gmail.com**
 
