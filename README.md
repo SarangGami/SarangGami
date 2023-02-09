@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarangGami_8](https://github.com/SarangGami?tab=repositories)
 
-- 💬 Ask me about **MS Excel, SQL, powerBI, python**
+- 💼 My Personal Portfolio Website [https://saranggami.github.io/MyPortfolio.com/]
 
-- 📫 How to reach me **sarang.gami.24@gmail.com**
+- 📫 My Email Address **sarang.gami.24@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sarang-gami-8](https://www.linkedin.com/in/sarang-gami-31b407257/)
 
