@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranggami&label=Profile%20views&color=0e75b6&style=flat" alt="saranggami" /> </p>
 
-- 🔭 I’m currently working on **MS Excel, SQL, Power BI**
+- 🔭 I’m currently working on **MSExcel, SQL, Power BI, Python-EDA**
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarangGami_8](https://github.com/SarangGami?tab=repositories)
 
